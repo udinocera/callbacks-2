@@ -6,3 +6,5 @@
   const sayHello = () => console.log("Hello");
 
   repeatHello(sayHello)
+
+  //Perché è più leggibile
